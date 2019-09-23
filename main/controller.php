@@ -14,8 +14,8 @@ Class controller {
             case "usermanagement";
                 include "./usermanagement.php";
                 break;
-            case "products";
-                include "./products.php";
+            case "uploads";
+                include "./uploads.php";
                 break;
             case "ChangePassword";
                 include "./ChangePassword.php";

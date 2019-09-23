@@ -60,7 +60,7 @@ $finalcode = 'RS-' . $func->createRandomPassword() . $_SESSION['SESS_BRANCH_ID']
         <div class="dropdown">
             <br><li><i class="icon-suitcase icon-2x"></i>Upload File</li> 
             <div class="dropdown-content">
-                <li><a href="index.php?page=products"><i class="icon-group icon-1x"></i> Upload File </a></li> 
+                <li><a href="index.php?page=uploads"><i class="icon-group icon-1x"></i> Upload File </a></li> 
             </div>
         </div>
 

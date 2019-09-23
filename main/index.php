@@ -6,9 +6,9 @@ session_start();
 <html>
     <head>
         <title>
-            Sanergy
+            Call Tronix
         </title>
-        <link rel="shortcut icon" href="images/pos.jpg">
+        <link rel="shortcut icon" href="images/favicon.ico">
         <link href="css/bootstrap.css" rel="stylesheet">
 
         <link rel="stylesheet" type="text/css" href="css/DT_bootstrap.css">

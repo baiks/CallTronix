@@ -79,7 +79,7 @@
                 </div>
             </div>
             <br><br>
-            <form action="index.php?page=products" method="post" enctype="multipart/form-data">
+            <form action="index.php?page=uploads" method="post" enctype="multipart/form-data">
                 <input type="file" name="file" id="file" class="btn btn-info" style="width:230px; height:35px;" required>
                 <Button type="submit" name="upload" id="upload" class="btn btn-info" style="width:230px; height:35px;" /><i class="icon-upload icon-large"></i>Upload JSON File</button>
             </form>
