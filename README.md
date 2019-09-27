@@ -1,15 +1,28 @@
-1. Extract the project folder.
-2. Import the DB script database.sql to mysql.
-3. Truncate the table interviewreport
-4. Copy and paste the project folder in wamp or xampp htdocs folder.
-5. Change the database configurations on the file connect.php.
+## Set Up
+* Extract the project folder.
+* Import the DB script database.sql to mysql.
+* Truncate the table interviewreport
+```sh
+TRUNCATE TABLE interviewreport
+```sh
+* Copy and paste the project folder in wamp or xampp htdocs folder.
+```sh
+D:\xampp\htdocs
+```
+* Change the database configurations on the file connect.php.
+```sh
+###Database config 
+$db_host		= 'localhost';
+$db_user		= 'root';
+$db_pass		= '';
+$db_database	= 'calltronixinterview'; 
+```sh
 
+## System guide
 
-Login using the below credentials;
-
-1. Open the application on the browser i.e localhost:8060/CallTronix
-2. Login using-> username:admin password:admin@123.
-3. Navigate to Upload file side menu.
-4. Select the file to upload
+* Open the application on the browser i.e localhost:8060/CallTronix
+* Login using-> username:admin password:admin@123.
+* Navigate to Upload file side menu.
+* Select the file to upload
 
 
