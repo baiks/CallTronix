@@ -4,11 +4,11 @@
 * Truncate the table interviewreport
 ```sh
 TRUNCATE TABLE interviewreport
-```sh
+
 * Copy and paste the project folder in wamp or xampp htdocs folder.
 ```sh
 i.e. D:\xampp\htdocs
-```sh
+
 * Change the database configurations on the file connect.php.
 ```sh
 ###Database config 
@@ -16,7 +16,6 @@ $db_host		= 'localhost';
 $db_user		= 'root';
 $db_pass		= '';
 $db_database	= 'calltronixinterview'; 
-```sh
 
 ## System guide
 
