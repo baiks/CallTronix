@@ -7,8 +7,8 @@ TRUNCATE TABLE interviewreport
 ```sh
 * Copy and paste the project folder in wamp or xampp htdocs folder.
 ```sh
-D:\xampp\htdocs
-```
+i.e. D:\xampp\htdocs
+```sh
 * Change the database configurations on the file connect.php.
 ```sh
 ###Database config 
